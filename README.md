@@ -10,7 +10,7 @@ The University of Kansas Women in Computing organization is a student-led club e
 
 We connect you with leading tech companies to provide industry insights and resources that can help with your learning experience. We provide training to help members become proficient in essential tech skills and organize workshops and seminars led by industry professionals, offering real-world advice regarding internships and work experience
 
-## 👯‍♀️Community👯‍♀️
+## 👯‍♀️Community👯‍♀️ lilly 
 
 In the traditionally male-dominated field of computer science, having a supportive community can be a game-changer. Our club at the University of Kansas is dedicated to creating a welcoming space where women and non-binary individuals can connect, collaborate, and thrive. Together, we’re building a strong community that empowers each member to excel in the tech industry.
 
